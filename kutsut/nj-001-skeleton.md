@@ -33,8 +33,8 @@
 
 **Ilmoittautumisen tiedot:**
 ```
-- Luokka nro  
-- VRL-00000 ja/tai Nimi – <a href="http://-alkuinen hevosen osoite">Hevosen Nimi</a> VH-numero
+Luokka nro  
+VRL-00000 ja/tai Nimi – <a href="http://-alkuinen hevosen osoite">Hevosen Nimi</a> VH-numero
 ```
 
 ### Esimerkki osallistumisesta
@@ -43,7 +43,6 @@
 Luokka 1
 VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000
 VRL-00000/Nimi & VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000
-JONO VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000
 ```
 
 
