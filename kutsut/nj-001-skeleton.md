@@ -16,6 +16,7 @@
 
 *Luokkatuomari tarvitsee merkitä vain, jos näyttelyssä on erikseen pää- ja luokkatuomarit.*
 
+```
 1. Friisiläishevoset
 1.1. Tammat, maitovarsat (0-1v:n kuvilla) [Luokkatuomari VRL-00000]  
 1.2. Tammat, nuoret varsat (1-2v:n kuvilla) [Luokkatuomari VRL-00000]
@@ -29,6 +30,7 @@
 2.3. Tammat, nuoret hevoset: 2-4v (aikuiskuvilla) [Luokkatuomari VRL-00000]
 2.4. Tammat, aikuiset hevoset: 5-10v (aikuiskuvilla) [Luokkatuomari VRL-00000]
 2.5. Tammat, seniori hevoset: 11v+ (aikuiskuvilla) [Luokkatuomari VRL-00000]
+```
 
 ## Osallistuminen
 
