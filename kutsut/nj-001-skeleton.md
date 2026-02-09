@@ -1,4 +1,4 @@
-# NJ-näyttely 05.08.2023
+# NJ-näyttely 00.00.2026
 
 **VIP:** 04.08.2023  
 **Järjestyspaikka:** Oak Hill Event Park (OAKH4632)  
