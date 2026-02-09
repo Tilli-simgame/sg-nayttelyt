@@ -5,9 +5,10 @@
 **Vastuuhenkilö:** Järjestäjän nimi VRL-00000  
 
 - Enintään 12 hevosta per luokka  
-- Luokkiin kaksi hevosta per omistaja + osallistumisjono (jos haluaa sitä käyttää)  
+- Luokkiin kaksi hevosta per omistaja
 - Hevosen saa ilmoittaa vain yhteen luokkaan  
-- NJ:n säännöt ja ohjeet osallistujille  
+- NJ:n säännöt ja ohjeet osallistujille
+- Näyttelyt avoinna: Friisiläishevoset AI-kuvilla
 
 ## Luokat ja tuomarit
 
@@ -15,16 +16,16 @@
 
 *Luokkatuomari tarvitsee merkitä vain, jos näyttelyssä on erikseen pää- ja luokkatuomarit.*
 
-1. Hevosorit (Luokkatuomari VRL-00000)  
-2. Hevostammat (Luokkatuomari VRL-00000)  
-3. Piirretyt hevosorit (Luokkatuomari VRL-00000)  
-4. Piirretyt hevostammat (Luokkatuomari VRL-00000)  
-5. Poniorit (Luokkatuomari VRL-00000)  
-6. Ponitammat (Luokkatuomari VRL-00000)  
-7. Piirretyt poniorit (Luokkatuomari VRL-00000)  
-8. Piirretyt ponitammat (Luokkatuomari VRL-00000)  
-9. Ruunat (myös piirretyt) (Luokkatuomari VRL-00000)  
-10. Varsat (myös piirretyt) (Luokkatuomari VRL-00000)  
+1. Friisiläishevonen: orit ja tammat, maitovarsat (0-1v:n kuvilla) [Luokkatuomari VRL-00000]  
+2. Friisiläishevonen: orit jatammat, nuoret varsat (1-2v:n kuvilla) [Luokkatuomari VRL-00000]  
+3. Friisiläishevonen: orit, nuoret hevoset: 2-4v (aikuiskuvilla) [Luokkatuomari VRL-00000]  
+4. Friisiläishevonen: tammat, nuoret hevoset: 2-4v (aikuiskuvilla) [Luokkatuomari VRL-00000]  
+5. Friisiläishevonen: orit, aikuiset hevoset: 5-10v (aikuiskuvilla) [Luokkatuomari VRL-00000]  
+6. Friisiläishevonen: tammat, aikuiset hevoset: 5-10v (aikuiskuvilla) [Luokkatuomari VRL-00000]
+7. Friisiläishevonen: orit, seniori hevoset: 11v+ (aikuiskuvilla) [Luokkatuomari VRL-00000]
+8. Friisiläishevonen: tammat, seniori hevoset: 11v+ (aikuiskuvilla) [Luokkatuomari VRL-00000]
+9. Friisiläishevonen: ruunat, aikuiset hevoset: 5-10v (aikuiskvilla) [Luokkatuomari VRL-00000]  
+10. Friisiläishevonen: ruunat, seniori hevoset: 11v+ (aikuiskuvilla) [Luokkatuomari VRL-00000]  
 
 ## Osallistuminen
 
@@ -32,8 +33,10 @@
 - Lisää jonohevosen ilmoittautumisen eteen **JONO**  
 
 **Ilmoittautumisen tiedot:**
+```
 - Luokka nro  
-- VRL-00000 ja/tai Nimi – <a href="http://-alkuinen hevosen osoite">Hevosen Nimi</a> VH-numero  
+- VRL-00000 ja/tai Nimi – <a href="http://-alkuinen hevosen osoite">Hevosen Nimi</a> VH-numero
+```
 
 ### Esimerkki osallistumisesta
 
@@ -49,14 +52,14 @@ JONO VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000
 
 ### Osallistujat
 
-1. Hevosorit  
-2. Hevostammat  
-3. Piirretyt hevosorit  
-4. Piirretyt hevostammat  
-5. Poniorit  
-6. Ponitammat  
-7. Piirretyt poniorit  
-8. Piirretyt ponitammat  
-9. Ruunat (myös piirretyt)  
-10. Varsat (myös piirretyt)  
+1. Friisiläishevonen: orit ja tammat, maitovarsat (0-1v:n kuvilla) [Luokkatuomari VRL-00000]  
+2. Friisiläishevonen: orit jatammat, nuoret varsat (1-2v:n kuvilla) [Luokkatuomari VRL-00000]  
+3. Friisiläishevonen: orit, nuoret hevoset: 2-4v (aikuiskuvilla) [Luokkatuomari VRL-00000]  
+4. Friisiläishevonen: tammat, nuoret hevoset: 2-4v (aikuiskuvilla) [Luokkatuomari VRL-00000]  
+5. Friisiläishevonen: orit, aikuiset hevoset: 5-10v (aikuiskuvilla) [Luokkatuomari VRL-00000]  
+6. Friisiläishevonen: tammat, aikuiset hevoset: 5-10v (aikuiskuvilla) [Luokkatuomari VRL-00000]
+7. Friisiläishevonen: orit, seniori hevoset: 11v+ (aikuiskuvilla) [Luokkatuomari VRL-00000]
+8. Friisiläishevonen: tammat, seniori hevoset: 11v+ (aikuiskuvilla) [Luokkatuomari VRL-00000]
+9. Friisiläishevonen: ruunat, aikuiset hevoset: 5-10v (aikuiskvilla) [Luokkatuomari VRL-00000]  
+10. Friisiläishevonen: ruunat, seniori hevoset: 11v+ (aikuiskuvilla) [Luokkatuomari VRL-00000]   
 
