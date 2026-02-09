@@ -1,13 +1,13 @@
 # NJ-näyttely 05.08.2023
 
 **VIP:** 04.08.2023  
-**Järjestyspaikka:** Tallin nimi  
-**Vastuuhenkilö:** Järjestäjän nimi VRL-00000  
+**Järjestyspaikka:** Oak Hill Event Park (OAKH4632)  
+**Vastuuhenkilö:** Tilli VRL-00406  
 
 - Enintään 12 hevosta per luokka  
 - Luokkiin kaksi hevosta per omistaja
 - Hevosen saa ilmoittaa vain yhteen luokkaan  
-- NJ:n säännöt ja ohjeet osallistujille
+- NJ:n [säännöt ja ohjeet](https://nj.safiiritiikeri.net/osallistu) osallistujille
 - Näyttelyt avoinna: Friisiläishevoset AI-kuvilla
 
 ## Luokat ja tuomarit
@@ -17,7 +17,7 @@
 *Luokkatuomari tarvitsee merkitä vain, jos näyttelyssä on erikseen pää- ja luokkatuomarit.*
 
 1. Friisiläishevonen: orit ja tammat, maitovarsat (0-1v:n kuvilla) [Luokkatuomari VRL-00000]  
-2. Friisiläishevonen: orit jatammat, nuoret varsat (1-2v:n kuvilla) [Luokkatuomari VRL-00000]  
+2. Friisiläishevonen: orit ja tammat, nuoret varsat (1-2v:n kuvilla) [Luokkatuomari VRL-00000]  
 3. Friisiläishevonen: orit, nuoret hevoset: 2-4v (aikuiskuvilla) [Luokkatuomari VRL-00000]  
 4. Friisiläishevonen: tammat, nuoret hevoset: 2-4v (aikuiskuvilla) [Luokkatuomari VRL-00000]  
 5. Friisiläishevonen: orit, aikuiset hevoset: 5-10v (aikuiskuvilla) [Luokkatuomari VRL-00000]  
