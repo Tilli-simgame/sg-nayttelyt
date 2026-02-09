@@ -29,8 +29,7 @@
 
 ## Osallistuminen
 
-- Lähetä osallistuminen vastuuhenkilön sähköpostiin otsikolla **NJ 5.8.2023**  
-- Lisää jonohevosen ilmoittautumisen eteen **JONO**  
+- Lähetä osallistuminen vastuuhenkilön sähköpostiin virtuaali@proton.me otsikolla **NJ 0.0.2020**  
 
 **Ilmoittautumisen tiedot:**
 ```
@@ -49,6 +48,8 @@ JONO VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000
 
 
 ## Tulokset
+
+- ei vielä tuloksia
 
 ### Osallistujat
 
