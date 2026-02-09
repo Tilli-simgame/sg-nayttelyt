@@ -8,7 +8,7 @@
 - Luokkiin kaksi hevosta per omistaja
 - Hevosen saa ilmoittaa vain yhteen luokkaan  
 - NJ:n [säännöt ja ohjeet](https://nj.safiiritiikeri.net/osallistu) osallistujille
-- Näyttelyt avoinna: Friisiläishevoset AI-kuvilla
+- Näyttelyt avoinna: **Friisiläishevoset AI-kuvilla**
 
 ## Luokat ja tuomarit
 
