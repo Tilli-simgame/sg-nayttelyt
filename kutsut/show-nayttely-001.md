@@ -4,15 +4,16 @@
 **Järjestyspaikka:** Oak Hill Event Park (OAKH4632)  
 **Vastuuhenkilö:** Tilli VRL-00406  
 
-- Enintään 20 hevosta per luokka  
-- Luokkiin kaksi hevosta per omistaja (luokat: I - VII)
+- Enintään 20 hevosta/ponia per luokka  
+- Luokkiin kaksi hevosta/ponia per omistaja (luokat: I - VII)
+  - Ryhmäluokkiin (luokat: IX - X) saa tuoda enintään 5 hevosta/ponia per omistaja 
 - Luokkiin yksi ryhmä per omistaja (luokat: IX - XI)
-- Hevosen saa ilmoittaa yhteen yksilöluokkaan (luokat: I - VII) ja yhteen ryhmäluokkaan (luokat: IX - XI)
+- Hevosen/Ponin saa ilmoittaa yhteen yksilöluokkaan (luokat: I - VII) ja yhteen ryhmäluokkaan (luokat: IX - XI)
 - Näyttelyt avoinna: AI- ja valokuvallisille
 
 **Show näyttelyt?**
 
-Nämä ovat leikkimieliset näyttelyt virtuaalihevosille. Jokainen luokka arvostellaan omanaan ja hevoset saavat yksilölliset arvostelut (pisteet + lyhyet sanalliset). Hevosille jaetaan 1-4 palkinnot. Kun hevoset ja ponit on arvosteltu, tulee jokaisen luokan 1-palkinnolla palkinnolla palkittu samaan aikaan kehään, jolloin valitaan paras hevonen ja paras poni. Varsat tulevat omana ryhmänään, joista valitaan paras varsa. Näiden luokkien jälkeen arvostellaan ryhmäluokat.
+Nämä ovat leikkimieliset näyttelyt virtuaali- hevosille ja poneille. Jokainen luokka arvostellaan omanaan ja hevoset saavat yksilölliset arvostelut (pisteet + lyhyet sanalliset). Hevosille jaetaan 1-4 palkinnot. Kun hevoset ja ponit on arvosteltu, tulee jokaisen luokan 1-palkinnolla palkinnolla palkittu samaan aikaan kehään, jolloin valitaan paras hevonen ja paras poni. Varsat tulevat omana ryhmänään, joista valitaan paras varsa. Näiden luokkien jälkeen arvostellaan ryhmäluokat.
 
 ## Palkinnot
 
