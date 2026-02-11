@@ -60,7 +60,7 @@ VRL-00000/Nimi – <a href="http://-alkuinen hevosen osoite">Hevosen Nimi</a> VH
 ### Esimerkki osallistumisesta
 
 ```
-Luokka VI
+Luokka I-VIII
 VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000
 VRL-00000/Nimi & VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000
 
