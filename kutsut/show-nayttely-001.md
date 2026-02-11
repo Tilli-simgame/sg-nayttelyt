@@ -4,7 +4,7 @@
 **Järjestyspaikka:** Oak Hill Event Park (OAKH4632)  
 **Vastuuhenkilö:** Tilli VRL-00406  
 
-- Enintään 20 hevosta/ponia per luokka  
+- Enintään 10 hevosta/ponia per luokka  
 - Yksilöluokkiin kaksi hevosta/ponia per omistaja (luokat: I - VII)
 - Ryhmäluokkiin (luokat: IX - X) saa tuoda enintään 5 hevosta/ponia per ryhmä 
 - Ryhmäluokkiin yksi ryhmä per omistaja (luokat: IX - XI)
