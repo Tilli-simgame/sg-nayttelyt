@@ -8,7 +8,20 @@
 - Luokkiin kaksi hevosta per omistaja (luokat: I - VII)
 - Luokkiin yksi ryhmä per omistaja (luokat: IX - XI)
 - Hevosen saa ilmoittaa vain yhteen luokkaan  
-- Näyttelyt avoinna: **Friisiläishevoset AI-kuvilla**
+- Näyttelyt avoinna: AI- ja valokuvallisille
+
+**Show näyttelyt?**
+
+Nämä ovat leikkimieliset näyttelyt virtuaalihevosille. Jokainen luokka arvostellaan omanaan ja hevoset saavat yksilölliset arvostelut (pisteet + lyhyet sanalliset). Hevosille jaetaan 1-4 palkinnot. Kun hevoset ja ponit on arvosteltu, tulee jokaisen luokan 1-palkinnolla palkinnolla palkittu samaan aikaan kehään, jolloin valitaan paras hevonen ja paras poni. Varsat tulevat omana ryhmänään, joista valitaan paras varsa. Näiden luokkien jälkeen arvostellaan ryhmäluokat.
+
+## Palkinnot
+
+- Paras hevonen: 250ve + loimi
+- Paras poni: 250ve + loimi
+- Paras varsa: 150ve + loimi
+- Paras Jälkeläisryhmä: 300ve + pokaali
+- Paras Sisarusryhmä: 300ve + pokaali
+- Paras kasvattaryhmä: 300ve + pokaali
 
 ## Luokat ja tuomarit
 
@@ -57,20 +70,19 @@ VRL-00000/Nimi & VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH0
 
 ### Osallistujat
 
-1. Friisiläishevoset
-  - 1.1. Tammat, kaikki varsat (0-3v:n kuvilla) [Luokkatuomari VRL-00000]  
-  - 1.2. Tammat, nuoret hevoset: 2-4v (aikuiskuvilla) [Luokkatuomari VRL-00000]
-  - 1.3. Tammat, aikuiset hevoset: 5-10v (aikuiskuvilla) [Luokkatuomari VRL-00000]
-  - 1.4. Tammat, seniori hevoset: 11v+ (aikuiskuvilla) [Luokkatuomari VRL-00000]
+**Hevoset**
+- Luokka I 4v+ orit
+- Luokka II 4v+ ruunat
+- Luokka III 4v+ tammat
+- Luokka IV 0-3v varsat (varsakuvilla)
 
-2. Arabialainen täysiverinen
-  - 2.1. Tammat, kaikki varsat (0-3v:n kuvilla) [Luokkatuomari VRL-00000]  
-  - 2.2. Tammat, nuoret hevoset: 2-4v (aikuiskuvilla) [Luokkatuomari VRL-00000]
-  - 2.3. Tammat, aikuiset hevoset: 5-10v (aikuiskuvilla) [Luokkatuomari VRL-00000]
-  - 2.4. Tammat, seniori hevoset: 11v+ (aikuiskuvilla) [Luokkatuomari VRL-00000]
+**Ponit**
+- Luokka V 4v+ orit
+- Luokka VI 4v+ ruunat
+- Luokka VII 4v+ tammat
+- Luokka VII 0-3v varsat (varsakuvilla)
 
-3. Lämminveriset ravihevoset (amerikanravuri, ranskanravuri, orlov sekä niiden risteykset)
-  - 3.1. Tammat, kaikki varsat (0-3v:n kuvilla) [Luokkatuomari VRL-00000]  
-  - 3.2. Tammat, nuoret hevoset: 2-4v (aikuiskuvilla) [Luokkatuomari VRL-00000]
-  - 3.3. Tammat, aikuiset hevoset: 5-10v (aikuiskuvilla) [Luokkatuomari VRL-00000]
-  - 3.4. Tammat, seniori hevoset: 11v+ (aikuiskuvilla) [Luokkatuomari VRL-00000]
+**Ryhmäluokat**
+- Luokka IX Jälkeläisluokka (emä tai isä ja vähintään 3 sen jälkeläistä)
+- Luokka X Sisarusluokka (vähintään 3 hevosta samasta emästä/isästä)
+- Luokka XI Kasvattajaluokka (samalta kasvattajalta vähintään 3 hevosta)
