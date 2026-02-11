@@ -9,7 +9,8 @@
 - Ryhmäluokkiin (luokat: IX - X) saa tuoda enintään 5 hevosta/ponia per ryhmä 
 - Ryhmäluokkiin yksi ryhmä per omistaja (luokat: IX - XI)
 - Hevosen/Ponin saa ilmoittaa yhteen yksilöluokkaan (luokat: I - VII) ja yhteen ryhmäluokkaan (luokat: IX - XI)
-- Näyttelyt avoinna: AI- ja valokuvallisille
+- Näyttelyt avoinna: AI- ja valokuvallisille, arvostelu rakennekuvista
+- VRL ja VH tunnukset eivät ole pakollisia
 
 **Show näyttelyt?**
 
