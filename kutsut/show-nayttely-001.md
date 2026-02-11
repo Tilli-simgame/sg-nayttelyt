@@ -37,7 +37,7 @@ Nämä ovat leikkimieliset näyttelyt virtuaalihevosille. Jokainen luokka arvost
 - Luokka V 4v+ orit
 - Luokka VI 4v+ ruunat
 - Luokka VII 4v+ tammat
-- Luokka VII 0-3v varsat (varsakuvilla)
+- Luokka VIII 0-3v varsat (varsakuvilla)
 
 **Ryhmäluokat**
 - Luokka IX Jälkeläisluokka (emä tai isä ja vähintään 3 sen jälkeläistä)
@@ -80,7 +80,7 @@ VRL-00000/Nimi & VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH0
 - Luokka V 4v+ orit
 - Luokka VI 4v+ ruunat
 - Luokka VII 4v+ tammat
-- Luokka VII 0-3v varsat (varsakuvilla)
+- Luokka VIII 0-3v varsat (varsakuvilla)
 
 **Ryhmäluokat**
 - Luokka IX Jälkeläisluokka (emä tai isä ja vähintään 3 sen jälkeläistä)
