@@ -54,7 +54,7 @@ Nämä ovat leikkimieliset näyttelyt virtuaali- hevosille ja poneille. Jokainen
 **Ilmoittautumisen tiedot:**
 ```
 Luokka nro  
-VRL-00000 ja/tai Nimi – <a href="http://-alkuinen hevosen osoite">Hevosen Nimi</a> VH-numero
+VRL-00000/Nimi – <a href="http://-alkuinen hevosen osoite">Hevosen Nimi</a> VH-numero
 ```
 
 ### Esimerkki osallistumisesta
@@ -63,6 +63,15 @@ VRL-00000 ja/tai Nimi – <a href="http://-alkuinen hevosen osoite">Hevosen Nimi
 Luokka VI
 VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000
 VRL-00000/Nimi & VRL-00000/Nimi - <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000
+
+Luokka IX
+VRL-00000/Nimi - <a href="http-alkuinen osoite">Emä/Isän Nimi</a> VH00-000-0000: <a href="http-alkuinen osoite">Jälkeläinen 1</a> VH00-000-0000, <a href="http-alkuinen osoite">Jälkeläinen 2</a> VH00-000-0000, <a href="http-alkuinen osoite">Jälkeläinen 3</a> VH00-000-0000, jne.
+
+Luokka X
+VRL-00000/Nimi - <a href="http-alkuinen osoite">Emä/Isän Nimi</a> VH00-000-0000: <a href="http-alkuinen osoite">Sisarus 1</a> VH00-000-0000, <a href="http-alkuinen osoite">Sisarus 2</a> VH00-000-0000, <a href="http-alkuinen osoite">Sisarus 3</a> VH00-000-0000, jne.
+
+Luokka XI
+VRL-00000/Nimi (Kasvattajanimi) - <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000: <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000, <a href="http-alkuinen osoite">Hevonen</a> VH00-000-0000, jne.
 ```
 
 
