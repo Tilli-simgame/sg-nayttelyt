@@ -14,22 +14,22 @@
 
 **Pää- ja luokkatuomari:** Tilli (VRL-00406)
 
-Hevoset
-Luokka I 4v+ orit
-Luokka II 4v+ ruunat
-Luokka III 4v+ tammat
-Luokka IV 0-3v varsat (varsakuvilla)
+**Hevoset**
+- Luokka I 4v+ orit
+- Luokka II 4v+ ruunat
+- Luokka III 4v+ tammat
+- Luokka IV 0-3v varsat (varsakuvilla)
 
-Ponit
-Luokka V 4v+ orit
-Luokka VI 4v+ ruunat
-Luokka VII 4v+ tammat
-Luokka VII 0-3v varsat (varsakuvilla)
+**Ponit**
+- Luokka V 4v+ orit
+- Luokka VI 4v+ ruunat
+- Luokka VII 4v+ tammat
+- Luokka VII 0-3v varsat (varsakuvilla)
 
-Ryhmäluokat
-Luokka IX Jälkeläisluokka (emä tai isä ja vähintään 3 sen jälkeläistä)
-Luokka X Sisarusluokka (vähintään 3 hevosta samasta emästä/isästä)
-Luokka XI Kasvattajaluokka (samalta kasvattajalta vähintään 3 hevosta)
+**Ryhmäluokat**
+- Luokka IX Jälkeläisluokka (emä tai isä ja vähintään 3 sen jälkeläistä)
+- Luokka X Sisarusluokka (vähintään 3 hevosta samasta emästä/isästä)
+- Luokka XI Kasvattajaluokka (samalta kasvattajalta vähintään 3 hevosta)
 
 
 ## Osallistuminen
