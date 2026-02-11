@@ -20,9 +20,9 @@ Nämä ovat leikkimieliset näyttelyt virtuaali- hevosille ja poneille. Jokainen
 - Paras hevonen: 250ve + loimi
 - Paras poni: 250ve + loimi
 - Paras varsa: 150ve + loimi
-- Paras Jälkeläisryhmä: 300ve + pokaali
-- Paras Sisarusryhmä: 300ve + pokaali
-- Paras kasvattaryhmä: 300ve + pokaali
+- Paras jälkeläisryhmä: 300ve + pokaali
+- Paras sisarusryhmä: 300ve + pokaali
+- Paras kasvattaryhmä: 400ve + pokaali
 
 ## Luokat ja tuomarit
 
