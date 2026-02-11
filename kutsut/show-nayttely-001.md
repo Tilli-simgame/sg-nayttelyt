@@ -13,7 +13,7 @@
 
 **Show näyttelyt?**
 
-Nämä ovat leikkimieliset näyttelyt virtuaali- hevosille ja poneille. Jokainen luokka arvostellaan omanaan ja hevoset saavat yksilölliset arvostelut (pisteet + lyhyet sanalliset). Hevosille jaetaan 1-4 palkinnot. Kun hevoset ja ponit on arvosteltu, tulee jokaisen luokan 1-palkinnolla palkinnolla palkittu samaan aikaan kehään, jolloin valitaan paras hevonen ja paras poni. Varsat tulevat omana ryhmänään, joista valitaan paras varsa. Näiden luokkien jälkeen arvostellaan ryhmäluokat.
+Nämä ovat leikkimieliset näyttelyt virtuaali- hevosille ja poneille. Jokainen luokka arvostellaan omanaan ja hevoset saavat yksilölliset arvostelut (lyhyet sanalliset). Hevosille jaetaan 1-4 palkinnot. Kun hevoset ja ponit on arvosteltu, tulee jokaisen luokan 1-palkinnolla palkinnolla palkittu samaan aikaan kehään, jolloin valitaan paras hevonen ja paras poni. Varsat tulevat omana ryhmänään, joista valitaan paras varsa. Näiden luokkien jälkeen arvostellaan ryhmäluokat.
 
 ## Palkinnot
 
