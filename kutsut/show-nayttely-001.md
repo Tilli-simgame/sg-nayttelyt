@@ -7,7 +7,7 @@
 - Enintään 20 hevosta per luokka  
 - Luokkiin kaksi hevosta per omistaja (luokat: I - VII)
 - Luokkiin yksi ryhmä per omistaja (luokat: IX - XI)
-- Hevosen saa ilmoittaa vain yhteen luokkaan  
+- Hevosen saa ilmoittaa yhteen yksilöluokkaan (luokat: I - VII) ja 1 ryhmäluokkaan (luokat: IX - XI)
 - Näyttelyt avoinna: AI- ja valokuvallisille
 
 **Show näyttelyt?**
