@@ -5,9 +5,9 @@
 **Vastuuhenkilö:** Tilli VRL-00406  
 
 - Enintään 20 hevosta/ponia per luokka  
-- Luokkiin kaksi hevosta/ponia per omistaja (luokat: I - VII)
+- Yksilöluokkiin kaksi hevosta/ponia per omistaja (luokat: I - VII)
   - Ryhmäluokkiin (luokat: IX - X) saa tuoda enintään 5 hevosta/ponia per omistaja 
-- Luokkiin yksi ryhmä per omistaja (luokat: IX - XI)
+- Ryhmäluokkiin yksi ryhmä per omistaja (luokat: IX - XI)
 - Hevosen/Ponin saa ilmoittaa yhteen yksilöluokkaan (luokat: I - VII) ja yhteen ryhmäluokkaan (luokat: IX - XI)
 - Näyttelyt avoinna: AI- ja valokuvallisille
 
