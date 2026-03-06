@@ -25,6 +25,12 @@ Nämä ovat leikkimieliset näyttelyt virtuaali- hevosille ja poneille. Jokainen
 - Paras sisarusryhmä: 300ve + pokaali
 - Paras kasvattaryhmä: 400ve + pokaali
 
+#### Sekä luokissa jaettavat rusukkeet:
+
+
+
+
+
 ## Luokat ja tuomarit
 
 **Pää- ja luokkatuomari:** Tilli (VRL-00406)
