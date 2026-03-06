@@ -127,18 +127,18 @@ VRL-00000/Nimi (Kasvattajanimi) - <a href="http-alkuinen osoite">Hevonen</a> VH0
 - Luokka IX Jälkeläisluokka (emä tai isä ja vähintään 3 sen jälkeläistä)
   - Jannica – <a href="https://adinanponitila.altervista.org/tammat/Phoenix.html">Phoenix von Gateaway</a>
     - Jannica – <a href="https://adinan.freeforums.net/thread/368/phantasia">A.D. Phantasia</a>
-    -Jannica – <a href="https://adinan.freeforums.net/thread/588/phantom-opera-ad">The Phantom of the Opera AD</a>
-    -Jannica – <a href="https://adinan.freeforums.net/thread/595/amelio">A.D. Amelio</a>
+    - Jannica – <a href="https://adinan.freeforums.net/thread/588/phantom-opera-ad">The Phantom of the Opera AD</a>
+    - Jannica – <a href="https://adinan.freeforums.net/thread/595/amelio">A.D. Amelio</a>
 
 - Luokka X Sisarusluokka (vähintään 3 hevosta samasta emästä/isästä)
   - Jannica – <a href="https://adinanponitila.altervista.org/orit2/Wiikari.html">Adinan Wiikarin Maine</a>
-    -Jannica – <a href="https://adinanponitila.altervista.org/orit2/Muumi.html">Adinan Muumi</a>
-    -Jannica – <a href="https://adinanponitila.altervista.org/Myrsky.html">Adinan Myrsky-Tuuli</a>
-    -Jannica – <a href="https://adinanponitila.altervista.org/tammat/Atta.html">Adinan Haamuaatto</a>
+    - Jannica – <a href="https://adinanponitila.altervista.org/orit2/Muumi.html">Adinan Muumi</a>
+    - Jannica – <a href="https://adinanponitila.altervista.org/Myrsky.html">Adinan Myrsky-Tuuli</a>
+    - Jannica – <a href="https://adinanponitila.altervista.org/tammat/Atta.html">Adinan Haamuaatto</a>
 
 - Luokka XI Kasvattajaluokka (samalta kasvattajalta vähintään 3 hevosta)
   - Jannica – <a href="https://adinanponitila.altervista.org/Simple.html">A.D. Simple As Mushroom</a>
-    -Jannica – <a href="https://adinanponitila.altervista.org/orit2/Esko.html">A.D. Easter Bunny</a>
-    -Jannica – <a href="https://adinanponitila.altervista.org/Willie.html">A.D. Mr Wombat</a>
-    -Jannica – <a href="https://adinanponitila.altervista.org/Whoopie.html">A.D. Whoopie Ghost</a>
-    -Jannica – <a href="https://adinanponitila.altervista.org/Choco.html">A.D. Chocolate Shake</a>
+    - Jannica – <a href="https://adinanponitila.altervista.org/orit2/Esko.html">A.D. Easter Bunny</a>
+    - Jannica – <a href="https://adinanponitila.altervista.org/Willie.html">A.D. Mr Wombat</a>
+    - Jannica – <a href="https://adinanponitila.altervista.org/Whoopie.html">A.D. Whoopie Ghost</a>
+    - Jannica – <a href="https://adinanponitila.altervista.org/Choco.html">A.D. Chocolate Shake</a>
