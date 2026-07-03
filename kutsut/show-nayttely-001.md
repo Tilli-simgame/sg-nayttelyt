@@ -90,106 +90,109 @@ VRL-00000/Nimi (Kasvattajanimi) - <a href="http-alkuinen osoite">Hevonen</a> VH0
 
 **Hevoset**
 - Luokka I 4v+ orit
-  1. **Spookiness** – [Le Roi Tacheté](https://radicaltrotters.altervista.org/leroitachete.html) VH25-098-0011 -> **52.75p.**
+  1. **Spookiness** – [Le Roi Tacheté](https://radicaltrotters.altervista.org/leroitachete.html) VH25-098-0011 -> **52.75p.** | 1. palkinto <img alt="1. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-1.png" />
      > *Hevosella on hyvä tasapaino ja lihakset sekä hyvä ylälinja. Hieman vähemmän jalo pää ja kaula verrattuna runkoon.*
-  2. **Jannica** – [Chattanooka Rewa](https://adinanponitila.altervista.org/orit2/Chad.html) -> **50.00p.**
+  2. **Jannica** – [Chattanooka Rewa](https://adinanponitila.altervista.org/orit2/Chad.html) -> **50.00p.** | 1. palkinto <img alt="1. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-1.png" />
      > *Voimakas, hyväsuhteinen työhevonen, jolla on hyvä lihaksisto ja rakenne. Hieman paksu kaula, mutta kokonaisuutena tasapainoinen.*
-  3. **Meeri N.** - [Snillin Armas](http://meerin.net/snilli/h/armas.html) -> **47.50p.**
+  3. **Meeri N.** - [Snillin Armas](http://meerin.net/snilli/h/armas.html) -> **47.50p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä tasapaino ja lihaksisto; ylälinja ja jalat näyttävät vankoilta.*
-  4. **Spookiness** – [Astragon](https://radicaltrotters.altervista.org/astragon.html) VH26-080-0003 -> **46.50p.**
+  4. **Spookiness** – [Astragon](https://radicaltrotters.altervista.org/astragon.html) VH26-080-0003 -> **46.50p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne ja vankka lihaksisto; hieman paksu kaula, mutta tasapainoinen.*
-  5. **Meeri N.** - [Snillin Turkka](http://meerin.net/snilli/h/turkka.html) -> **46.05p**
+  5. **Meeri N.** - [Snillin Turkka](http://meerin.net/snilli/h/turkka.html) -> **46.05p** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne, tasapainoiset mittasuhteet ja vankka lihaksisto. Hieman vähemmän jalo kaula ja ylälinja, mutta hyvärakenteiset jalat ja kaviot.*
-  6. **VRL-00329** – [Gin Paradoks](https://hevosmaailma.net/Gin/paradoks.shtml) -> **45.10p.**
+  6. **VRL-00329** – [Gin Paradoks](https://hevosmaailma.net/Gin/paradoks.shtml) -> **45.10p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvärakenteinen hevonen, jolla on hyvä lihaskunto ja ryhti. Hieman parantamisen varaa lavan kulmauksessa ja jalkojen erottuvuudessa.*
-  7. **Jannica** – [Goodtime Mister Perfect](https://adinanponitila.altervista.org/Petu.html) -> **44.50p.**
+  7. **Jannica** – [Goodtime Mister Perfect](https://adinanponitila.altervista.org/Petu.html) -> **44.50p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Tiivis ja voimakas rakenne; runsaat vuohiskarvat jaloissa; lavat voisivat olla selkeämpi erottuvat; kaiken kaikkiaan hyvä lihaksisto ja tasapaino rodulle.*
-  8. **VRL-00329** – [Gin Yantar](https://hevosmaailma.net/Gin/yantar.shtml) -> **42.00p.**
+  8. **eatnama** - [Purnin Ekku](http://burn.atspace.cc/ekku.html) VH25-018-0657 -> **43.50**  | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
+     > *Rodulle tyypillinen hyvä rakenne; hieman parantamisen varaa lihaksistossa ja pään jaloudessa*
+  9. **VRL-00329** – [Gin Yantar](https://hevosmaailma.net/Gin/yantar.shtml) -> **42.00p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Selkeä sivuprofiili, hyvä ryhti, hieman vaatimaton lihaksisto ja ylälinja.*
-  - **eatnama** - [Grand Entrance RC](http://burn.atspace.cc/grandentrance.html) VH26-045-0002
-  - **eatnama** - [Purnin Ekku](http://burn.atspace.cc/ekku.html) VH25-018-0657
-
   
+  **eatnama** - [Grand Entrance RC](http://burn.atspace.cc/grandentrance.html) VH26-045-0002  -> **0p.**
+     > *Ei ole rakennekuvaa/sivukuvaa.*
+
 - Luokka II 4v+ ruunat
-  1. **Jannica** – [Haroun al Rachid](https://adinan.freeforums.net/thread/1433/haroun-al-rachid) -> **48.15p.**
+  1. **Jannica** – [Haroun al Rachid](https://adinan.freeforums.net/thread/1433/haroun-al-rachid) -> **48.15p.** | 1. palkinto <img alt="1. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-1.png" />
      > *Kokonaisuudessaan hyvä rakenne; hieman parantamisen varaa jaloissa ja lavoissa.*
-  2. **Jannica** – [Conrad](https://adinanponitila.altervista.org/Conrad.html) -> **45.20p.**
+  2. **Jannica** – [Conrad](https://adinanponitila.altervista.org/Conrad.html) -> **45.20p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä yleinen rakenne ja tasapainoiset mittasuhteet; ylälinja ja lihaksisto hyvin kehittyneet.*
-  3. **VRL-14723/Janina Korpikallio** – [Kulkurin Riesa](https://ruunuhovi.weebly.com/kelmi.html) -> **44.00p.**
+  3. **VRL-14723/Janina Korpikallio** – [Kulkurin Riesa](https://ruunuhovi.weebly.com/kelmi.html) -> **44.00p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Rodulle ja iälle tyypillinen hyvärakenteinen profiili.*
 
 - Luokka III 4v+ tammat
-  1. **Spookiness** – [Vanilla Vibes](https://radicaltrotters.altervista.org/vanillavibes.html) VH25-038-0029 -> **49.30p.**
+  1. **Spookiness** – [Vanilla Vibes](https://radicaltrotters.altervista.org/vanillavibes.html) VH25-038-0029 -> **49.30p.** | 1. palkinto <img alt="1. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-1.png" />
      > *Hyvärakenteinen hevonen, jolla on hyvä lihaksisto ja ylälinja. Hieman vähemmän jalot jalat, mutta kokonaisuutena tasapainoinen.*
-  2. **Jannica** – [Cassandra](https://adinanponitila.altervista.org/tammat/Cass.html) -> **48.80p.**
-     > *Hyvä yleinen rakenne, vahvat mittasuhteet ja hyvä lihaksisto.*
-  3. **VRL-00329** – [Gin Dilemma](https://hevosmaailma.net/Gin/dilemma.shtml) -> **47.10p.**
+  2. **Jannica** – [Cassandra](https://adinanponitila.altervista.org/tammat/Cass.html) -> **48.80p.** | 1. palkinto <img alt="1. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-1.png" />
+     > *Hyvä yleinen rakenne, vahvat mittasuhteet and hyvä lihaksisto.*
+  3. **VRL-00329** – [Gin Dilemma](https://hevosmaailma.net/Gin/dilemma.shtml) -> **47.10p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Selkeä sivuprofiili; hyvä tasapaino ja ylälinja. Hieman vähemmän jalo pää ja kaula.*
-  4. **Meeri N.** - [Debbie Clover Z](http://meerin.net/snilli/h/debbie.html) -> **46.35p.**
+  4. **Meeri N.** - [Debbie Clover Z](http://meerin.net/snilli/h/debbie.html) -> **46.35p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvärakenteinen hevonen, jolla on hyvä lihaksisto ja ylälinja. Pään ja kaulan rakenne on vankka, lavat ja jalat osoittavat hyvää rakennetta.*
-  5. **Spookiness** – [Billion Dollar Baby](https://radicaltrotters.altervista.org/billiondollarbaby.html) VH24-038-0005 -> **44.80p.**
+  5. **Spookiness** – [Billion Dollar Baby](https://radicaltrotters.altervista.org/billiondollarbaby.html) VH24-038-0005 -> **44.80p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä sivuprofiili; kokonaisuudessaan tasapainoinen, mutta lihaksisto ja lavan yksityiskohdat voisivat olla paremmat.*
-  6. **Meeri N.** - [Snillin Suukko](http://meerin.net/snilli/h/suukko.html) -> **44.30p.**
+  6. **eatnama** - [Farr Kenosha](http://farrarabians.atspace.cc/kenosha.html) VH25-003-0249 -> **45.55p.** |
+     > *Tasapainoinen hevonen, jolla on hyvä ylälinja ja lihaksisto; jalat vaikuttavat vahvoilta ja hyvämuotoisilta. Pään ja kaulan mittasuhteet ovat hyvät, mutta ne voisivat olla hieman jalommat*
+  7. **Meeri N.** - [Snillin Suukko](http://meerin.net/snilli/h/suukko.html) -> **44.30p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne, tasapainoiset mittasuhteet ja terve lihaksisto. Hieman pehmeä ylälinja.*
-  7. **VRL-00329** – [Gin Qury](https://hevosmaailma.net/Gin/qury.shtml) -> **44.00p.**
+  8. **VRL-00329** – [Gin Qury](https://hevosmaailma.net/Gin/qury.shtml) -> **44.00p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne, jossa on hyvin tasapainoiset mittasuhteet ja lihaksisto.*
-  8. **Jannica** – [Jamaica NIP](https://adinanponitila.altervista.org/tammat/Jamaica.html) -> **43.90p.**
+  9. **Jannica** – [Jamaica NIP](https://adinanponitila.altervista.org/tammat/Jamaica.html) -> **43.90p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä yleinen rakenne, tasapainoiset mittasuhteet ja vankka lihaksisto. Hieman keskitasoinen pään ja kaulan asento.*
-  - **eatnama** - [Farr Kenosha](http://farrarabians.atspace.cc/kenosha.html) VH25-003-0249
-
+     
 - Luokka IV 0-3v varsat (varsakuvilla)
-  1. **Jannica** – [Adinan Onnen Taival](https://adinanponitila.altervista.org/muut/Oona.html) -> **43.90p.**
+  1. **Jannica** – [Adinan Onnen Taival](https://adinanponitila.altervista.org/muut/Oona.html) -> **43.90p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä yleinen rakenne. Tasapainoiset mittasuhteet, joiden odotetaan kehittyvän sen aikuistuessa. Jalat ja lihaksisto riittävät, mutta voisivat kehittyä enemmän.*
-  2. **Jannica** – [Lemniscate Noah](https://adinanponitila.altervista.org/muut/Noah.html) -> **43.10p.**
+  2. **Jannica** – [Lemniscate Noah](https://adinanponitila.altervista.org/muut/Noah.html) -> **43.10p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hieman kehittymätön lihaksisto, mutta kaiken kaikkiaan hyvä rakenne.*
 
 **Ponit**
 - Luokka V 4v+ orit
-  1. **Jannica** – [A.D. Piece of Art](https://adinanponitila.altervista.org/Arttu.html) -> **50.75p.**
+  1. **Jannica** – [A.D. Piece of Art](https://adinanponitila.altervista.org/Arttu.html) -> **50.75p.** | 1. palkinto <img alt="1. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-1.png" />
      > *Hyvin tasapainoinen poni, jolla on hyvä lihaksisto ja ylälinja; jalat vaikuttavat vankoilta ja hyvämuotoisilta.*
-  2. **Jannica** – [A.D. Goldsmith](https://adinanponitila.altervista.org/orit2/Smithy.html) -> **50.00p.**
+  2. **Jannica** – [A.D. Goldsmith](https://adinanponitila.altervista.org/orit2/Smithy.html) -> **50.00p.** | 1. palkinto <img alt="1. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-1.png" />
      > *Hyvin tasapainoinen, hyvä ylälinja ja puhtaat jalat. Hieman vähemmän jalo pää ja lihaksisto ikään nähden.*
-  3. **VRL-00329** – [Cinnteach II](https://hevosmaailma.net/Ionic/Ponit/cinnteach.html) -> **50.00p.**
+  3. **VRL-00329** – [Cinnteach II](https://hevosmaailma.net/Ionic/Ponit/cinnteach.html) -> **50.00p.** | 1. palkinto <img alt="1. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-1.png" />
      > *Hyvärakenteinen poni, jolla on vankka rakenne ja hyvä lihaksisto.*
-  4. **VRL-00329** – [Ionin Kai Halwyn](https://hevosmaailma.net/Ionic/Ponit/kaihalwyn.html) -> **48.50p.**
+  4. **VRL-00329** – [Ionin Kai Halwyn](https://hevosmaailma.net/Ionic/Ponit/kaihalwyn.html) -> **48.50p.** | 1. palkinto <img alt="1. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-1.png" />
      > *Kokonaisuudessaan hyvä rakenne, tasapainoiset mittasuhteet ja vankka lihaksisto.*
-  5. **Meeri N.** - [Piccolo Kasimir](http://meerin.net/snilli/h/kasimir.html) -> **45.50p.**
+  5. **Meeri N.** - [Piccolo Kasimir](http://meerin.net/snilli/h/kasimir.html) -> **45.50p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne. Tasapainoinen, vahva lihaksisto ja terveet jalat.*
-  6. **Spookiness** – [Mr. Confetti](https://radicaltrotters.altervista.org/mrconfetti.html) VH25-208-0001 -> **45.20p.**
+  6. **Spookiness** – [Mr. Confetti](https://radicaltrotters.altervista.org/mrconfetti.html) VH25-208-0001 -> **45.20p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Selkeä sivuprofiili, hyvä ryhti. Mittasuhteet ja lihaksisto hieman puutteelliset, mutta kokonaisuutena vankka.*
-  7. **Spookiness** – [Bite The Dust](https://radicaltrotters.altervista.org/bitethedust.html) VH24-208-0003 -> **43.90p.**
+  7. **Spookiness** – [Bite The Dust](https://radicaltrotters.altervista.org/bitethedust.html) VH24-208-0003 -> **43.90p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Tasapainoinen yleinen rakenne, hieman pyöristynyt ylälinja, vankat jalat.*
-  8. **Meeri N.** - [Feyhill Mycroft](http://meerin.net/snilli/h/mycroft.html) -> **43.60p.**
+  8. **Meeri N.** - [Feyhill Mycroft](http://meerin.net/snilli/h/mycroft.html) -> **43.60p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Mittasuhteet ja lihaksisto rodun ja iän mukaiset.*
 
 - Luokka VI 4v+ ruunat
-  1. **Jannica** – [Daighneann Adventure](https://adinan.freeforums.net/thread/1571/daighneann-adventure) -> **46.20p.**
+  1. **Jannica** – [Daighneann Adventure](https://adinan.freeforums.net/thread/1571/daighneann-adventure) -> **46.20p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne; tasapainoiset mittasuhteet ja lihaksikas runko.*
-  2. **Jannica** – [Moonstone Isac](https://adinan.freeforums.net/thread/1602/moonstone-isac) -> **45.10p.**
+  2. **Jannica** – [Moonstone Isac](https://adinan.freeforums.net/thread/1602/moonstone-isac) -> **45.10p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne; mittasuhteet tasapainoiset; hieman vähemmän jaloutta jaloissa ja lihaksistossa, mikä on tyypillistä vanhemmalle ponille.*
 
 - Luokka VII 4v+ tammat
-  1. **VRL-00329** – [Llygedyn Aeriaid Y Gwanwyn](https://hevosmaailma.net/Ionic/Ponit/aeriaidygwanwyn.html) -> **49.10p.**
+  1. **VRL-00329** – [Llygedyn Aeriaid Y Gwanwyn](https://hevosmaailma.net/Ionic/Ponit/aeriaidygwanwyn.html) -> **49.10p.** | 1. palkinto <img alt="1. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-1.png" />
      > *Hyvin tasapainoinen poni, jolla on hyvä lihaksisto ja ylälinja. Pää ja kaula sopusuhtaiset. Jalat osoittavat tervettä rakennetta.*
-  2. **VRL-00329** – [Éigrit Bheag Ion](https://hevosmaailma.net/Ionic/Ponit/eigritbheag.html) -> **47.90p.**
+  2. **VRL-00329** – [Éigrit Bheag Ion](https://hevosmaailma.net/Ionic/Ponit/eigritbheag.html) -> **47.90p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne, jossa on hyvä runko ja vankat jalat. Toivoisin hieman paermpaa ylälinjaa, mutta hyvä lihaskunto.*
-  3. **Jannica** – [A.D. Ocean Hope](https://adinanponitila.altervista.org/tammat/Hope.html) -> **47.25p.**
+  3. **Jannica** – [A.D. Ocean Hope](https://adinanponitila.altervista.org/tammat/Hope.html) -> **47.25p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne ja lihaksisto. Hieman pystyt lavat ja kohtalainen ylälinja. Jalat vaikuttavat terveiltä ja niissä on riittävästi luustoa.*
-  4. **Spookiness** – [Specklewish](https://radicaltrotters.altervista.org/specklewish.html) VH25-208-0002 -> **45.40p.**
+  4. **Spookiness** – [Specklewish](https://radicaltrotters.altervista.org/specklewish.html) VH25-208-0002 -> **45.40p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne, hyvin tasapainoinen vankalla lihaksistolla ja jalkojen rakenteella. Hieman lyhyempi kaula, mutta suhteessa rotutyyppiin.*
-  5. **Jannica** – [Halo Rewa](https://adinanponitila.altervista.org/tammat/Halo.html) -> **44.00p.**
+  5. **Jannica** – [Halo Rewa](https://adinanponitila.altervista.org/tammat/Halo.html) -> **44.00p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Poni, jolla on kokonaisuudessaan hyvä rakenne, vaikka jotkin alueet ovat epäselvempiä.*
-  6. **Spookiness** – [Go Bananas](https://radicaltrotters.altervista.org/gobananas.html) VH24-208-0002 -> **42.50p.**
+  6. **Spookiness** – [Go Bananas](https://radicaltrotters.altervista.org/gobananas.html) VH24-208-0002 -> **42.50p.** | 2. palkinto <img alt="2. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-2.png" />
      > *Hyvä rakenne ja tasapaino; rotutyypilliset piirteet huomioitu. Jalat voisivat osoittaa enemmän jaloutta ikään nähden.*
    
 - Luokka VIII 0-3v varsat (varsakuvilla)
-  1. **Jannica** – [Rockford Rio](https://adinanponitila.altervista.org/muut/Rio.html) -> **40.50p.**
+  1. **Jannica** – [Rockford Rio](https://adinanponitila.altervista.org/muut/Rio.html) -> **40.50p.** | 3. palkinto <img alt="3. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-3.png" />
      > *Varsa tyypillisillä mittasuhteilla, jonkin verran jaloutta odotetaan aikuistumisen myötä.*
-  2. **Jannica** – [Piccolo Pixel Princess](https://adinanponitila.altervista.org/muut/Prinsessa.html) -> **37.00p.**
+  2. **Jannica** – [Piccolo Pixel Princess](https://adinanponitila.altervista.org/muut/Prinsessa.html) -> **37.00p.** | 3. palkinto <img alt="3. palkinto" width="40px" src="assets/ruusuke-kaksivarinen-3.png" />
      > *Varsa jolla on kehittyvä rakenne; mittasuhteet ja lihaksisto ovat iälle tyypilliset.*
-  3. **Meeri N.** - [Snilli Divinity Candy](http://meerin.net/snilli/h/divinitycandy.html) -> **0p.**
+  3. **Meeri N.** - [Snilli Divinity Candy](http://meerin.net/snilli/h/divinitycandy.html) -> **0p.** 
      > *Ei ole varsa.*
-  4. **Meeri N.** - [Vanora Snilli](http://meerin.net/snilli/h/vanora.html) -> **0p.**
+  4. **Meeri N.** - [Vanora Snilli](http://meerin.net/snilli/h/vanora.html) -> **0p.** 
      > *Ei ole varsa.*
 
 **Ryhmäluokat**
